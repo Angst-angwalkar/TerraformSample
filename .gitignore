@@ -35,3 +35,4 @@ terraform.rc
 
 *.csv
 *.lock*
+*.terraform/*
